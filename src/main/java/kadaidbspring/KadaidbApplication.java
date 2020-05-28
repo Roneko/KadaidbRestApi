@@ -1,13 +1,13 @@
-package com.testspring;
+package kadaidbspring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestSpringApplication {
+public class KadaidbApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestSpringApplication.class, args);
+		SpringApplication.run(KadaidbApplication.class, args);
 	}
 
 }
